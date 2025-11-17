@@ -1,0 +1,5 @@
+# Ignore actual config file with personal information
+config.json
+
+# Keep example config
+!config.example.json

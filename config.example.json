@@ -1,0 +1,14 @@
+{
+  "profiles": [
+    {
+      "name": "Your Name",
+      "email": "personal@example.com",
+      "label": "Personal"
+    },
+    {
+      "name": "Your Name",
+      "email": "work@company.com",
+      "label": "Work"
+    }
+  ]
+}
